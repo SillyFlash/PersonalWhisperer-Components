@@ -1,0 +1,10 @@
+{
+  "model": "GigaAM Multilingual large_ctc",
+  "source": "ai-sage/GigaAM-Multilingual",
+  "sourceRevision": "3905cd51c3ed4e88c8edf33f3302969ba480a327",
+  "file": "gigaam-600m-ctc-int8.onnx",
+  "bytes": 835294657,
+  "sha256": "4855fddd1e2b6f6638ab3d35158b6ee8295af173ef45feaf64e646701ebf51a4",
+  "license": "MIT",
+  "adaptation": "Official ONNX export, Sherpa metadata, dynamic MatMul/Gemm QUInt8"
+}
